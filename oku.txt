@@ -1,0 +1,1 @@
+Bash script kavramı ve Linux Shell’in temel komutlarını öğrendik.

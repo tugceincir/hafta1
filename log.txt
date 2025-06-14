@@ -1,0 +1,3 @@
+commit 02fa218a0cec1151bc08abe423aeffb6a5d9b35d (HEAD -> main, origin/main, origin/HEAD)
+Author: tugceincir <incirtugce58@gmail.com>
+Date:   Sat Mar 1 10:50:37 2025 +0300
